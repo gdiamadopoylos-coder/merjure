@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MJBANNER.jpg" width="420"/>
+  <img src="MJ.PNG" width="420"/>
 </p>
 
 <h2 align="center">
@@ -7,7 +7,7 @@ Intelligent M&A Targeting
 </h2>
 
 <p align="center">
-Explainable acquisition screening engine for corporate development and investment teams.
+AI Acquisition Mergers Tragetting Engine.
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
