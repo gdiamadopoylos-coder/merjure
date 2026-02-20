@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="MJ.PNG" width="140"/>
+  <img src="MJ.PNG" width="220"/>
 </p>
 
 <h1 align="center">MERJURE™</h1>
