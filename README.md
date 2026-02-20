@@ -1,11 +1,11 @@
-# M&A Target Screener (Pilot V1)
+# MERJURE™
 
 Interactive M&A screening tool built in Python using Streamlit.
 
-## Live Demo
+## Wep Application Engine
 https://ma-screener-itdtcvvpsjnzchqrnoeajr.streamlit.app/
 
-## What the tool does
+## Web App Features
 - Upload company universe (CSV/XLSX)
 - Select an acquirer
 - Rank acquisition targets
@@ -20,6 +20,4 @@ https://ma-screener-itdtcvvpsjnzchqrnoeajr.streamlit.app/
 - Synergy proxy estimation
 - Human-readable deal reasoning
 
-## Run locally
 
-Clone the repository:
