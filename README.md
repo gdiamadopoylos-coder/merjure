@@ -7,7 +7,7 @@ Intelligent M&A Targeting
 </h2>
 
 <p align="center">
-AI Acquisition Mergers Tragetting Engine.
+AI Acquisition Mergers Targetting Engine.
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
