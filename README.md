@@ -6,17 +6,13 @@
 Intelligent M&A Targeting
 </h2>
 
-<p align="center">
-AI Acquisition Mergers Targetting Engine.
-</p>
-
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Status](https://img.shields.io/badge/Deployment-Live-success)
 
 # MERJURE™
 
-MERJURE™ is an explainable acquisition screening engine designed to help corporate development and investment teams identify, rank, and justify M&A targets with speed and transparency.
+MERJURE™ is an intelligent acquisition targeting engine designed to help corporate development and investment teams identify, rank, and prioritise M&A opportunities.
 
 ## Live Engine
 https://ma-screener-itdtcvvpsjnzchqrnoeajr.streamlit.app/
@@ -25,6 +21,15 @@ https://ma-screener-itdtcvvpsjnzchqrnoeajr.streamlit.app/
 
 Traditional M&A screening is manual, spreadsheet-heavy, and opaque.  
 MERJURE transforms raw market data into a structured, weighted, and explainable acquisition shortlist — reducing bias, increasing clarity, and accelerating decision-making.
+
+## Core Capabilities
+
+• Multi-factor weighted scoring architecture  
+• Strategic fit & adjacency modelling  
+• Financial risk & leverage penalties  
+• Synergy proxy estimation  
+• Radar-based visual analytics  
+• Exportable PDF & PPT investment packs
 
 ## Scoring Architecture
 
